@@ -70,14 +70,14 @@ export const CustomersPage = () => {
           <tr>
             <th className="px-4 py-2"></th>
             <th className="px-4 py-2"></th>
-            <th className="px-4 py-2">Code</th>
-            <th className="px-4 py-2">Name</th>
-            <th className="px-4 py-2">Inn</th>
-            <th className="px-4 py-2">Kpp</th>
-            <th className="px-4 py-2">Legal Address</th>
-            <th className="px-4 py-2">Postal Address</th>
+            <th className="px-4 py-2">Код</th>
+            <th className="px-4 py-2">Наименование</th>
+            <th className="px-4 py-2">ИНН</th>
+            <th className="px-4 py-2">КПП</th>
+            <th className="px-4 py-2">Юр. Адрес</th>
+            <th className="px-4 py-2">Почтовый. Адрес</th>
             <th className="px-4 py-2">Email</th>
-            <th className="px-4 py-2">CodeMain</th>
+            <th className="px-4 py-2">Вышестоящий контрагент</th>
             <th className="px-4 py-2">Вид лица</th>
           </tr>
         </thead>
